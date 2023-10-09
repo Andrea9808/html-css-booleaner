@@ -1,0 +1,26 @@
+
+
+.Background{
+    background-image: url(../img/pattern.png);
+    background-color: rgb(14, 155, 221);
+    background-size: 150px;
+    padding-top: 30px;
+}
+
+
+#logo{
+    width: 170px;
+    height: auto;
+}
+
+body{
+    margin: 0px;
+}
+
+.Intestazione{
+    color: rgb(140, 138, 135);
+}
+
+.Data{
+    color: rgb(140, 138, 135);
+}
