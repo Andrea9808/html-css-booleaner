@@ -1,4 +1,9 @@
 
+body{
+    margin: 0px;
+}
+
+
 /* Stili dell' header */
 
 .Background{
@@ -14,12 +19,13 @@
     height: auto;
 }
 
-body{
-    margin: 0px;
-}
 
 .Intestazione{
     color: rgb(140, 138, 135);
+}
+
+#Booleaner{
+    color: blue;
 }
 
 .Data{
@@ -27,6 +33,22 @@ body{
 }
 
 
+/* Stili del main */
+
+#Evidenziato1{background-color: yellow;}
+#Evidenziato2{background-color: yellow;}
+
+.riga1{
+    background-color: rgb(38, 132, 255);
+}
+
+.riga2{
+    background-color: rgb(135, 202, 229);
+}
+
+.riga4{
+    background-color: rgb(135, 202, 229);
+}
 
 
 /* Stili del Footer */
